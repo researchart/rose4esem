@@ -3,8 +3,6 @@
 ##  The Fourth ROSE Festival, ESEM 2019
 ##  Recognizing and Rewarding Open Science in Software Engineering  
 
-<img align="center" src="etc/img/header.png">  
-
 A track at [ESEM 2019](http://eseiw2019.com/esem/).
 
 Submit your presentation proposals directly via email to Robert Feldt or Maria Teresa (See instructions below)
