@@ -1,7 +1,5 @@
 # ROSE Festival #4
 
- <img src="etc/img/header.png" align="center">
-
 ### A track at [ESEM 2019](http://eseiw2019.com/esem/), September 19, 2019.
 
 _____
