@@ -6,7 +6,19 @@ _____
 
 ### Program
 
-To be announced.
+Thursday, September 19.
+13:30 - 15:00, Room Baobà 4
+
+Minor changes to program TBA.
+
+* 13:30 - 13:38: **Robert Feldt and Maria Teresa Baldassarre** - Introduction
+* 13:38 - 13:48: **Fabian Fagerholm**, C. Becker, A. Chatzigeorgiou, S. Betz, L. Duboc, B. Penzenstadler, R. Mohanani and C. C. Venters - Temporal Discounting in Software Engineering: A Replication Study
+* 13:48-14:08: Lightning talks on data/code sharing ESEM19 papers
+* 14:08-14:12: **Marcos Kalinowski** - Panelist statement
+* 14:12-14:16: **Maurizio Morisio** - Panelist statement
+* 14:16-14:20: **Michael Felderer** - Panelist statement
+* 14:20-14:24: **Martin Solari** - Panelist statement
+* 14:24-15:00: **Panelists and audience** - Fishbowl Panel (starting from panelists and then audience jumps in)
 
 _____
 
